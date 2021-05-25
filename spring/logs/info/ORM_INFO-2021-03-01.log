@@ -1,0 +1,45 @@
+2021-03-01 00:14:59.574 [main] INFO  edu.gdpu.springboot.ResourceBanner -
+ _     _       _
+| |   (_)     | |
+| |__  _ _ __ | |__   ___  _   _
+| '_ \| | '_ \| '_ \ / _ \| | | |
+| |_) | | | | | |_) | (_) | |_| |
+|_.__/|_|_| |_|_.__/ \___/ \__, |
+                            __/ |
+                           |___/
+
+2021-03-01 10:52:55.701 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：54
+2021-03-01 10:53:15.344 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：4
+2021-03-01 10:55:03.280 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：4
+2021-03-01 11:39:40.107 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = mycontroller, value = edu.gdpu.MySSM.test.annoationTest.MyController@20e2cbe0
+2021-03-01 11:39:40.112 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = myBean, value = edu.gdpu.MySSM.test.iocAop.MyBean@c038203
+2021-03-01 11:46:39.358 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：4
+2021-03-01 11:47:08.140 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：3
+2021-03-01 11:48:06.018 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：4
+2021-03-01 11:48:51.712 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：4
+2021-03-01 11:49:35.906 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：3
+2021-03-01 11:49:55.118 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：4
+2021-03-01 11:50:11.031 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：4
+2021-03-01 11:50:21.598 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：4
+2021-03-01 11:52:34.845 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：3
+2021-03-01 11:52:47.277 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：4
+2021-03-01 11:55:19.463 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-01 11:57:08.887 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：5
+2021-03-01 15:55:25.759 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：7
+2021-03-01 16:01:15.180 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：4
+2021-03-01 16:01:55.496 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：3
+2021-03-01 16:02:53.528 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-01 18:02:38.459 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：7
+2021-03-01 18:03:53.914 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：4
+2021-03-01 18:05:38.436 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：5
+2021-03-01 18:09:30.684 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：7
+2021-03-01 18:10:45.000 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：4
+2021-03-01 18:12:26.905 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：4
+2021-03-01 18:12:49.968 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：4
+2021-03-01 18:13:06.074 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：4
+2021-03-01 18:13:41.150 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：4
+2021-03-01 18:14:27.109 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：4
+2021-03-01 19:07:24.839 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：5
+2021-03-01 19:08:12.636 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：5

@@ -1,0 +1,70 @@
+2021-03-02 21:21:38.907 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：5
+2021-03-02 21:22:39.748 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：5
+2021-03-02 21:24:35.641 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-02 21:26:03.435 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：4
+2021-03-02 21:26:38.624 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：5
+2021-03-02 21:27:12.046 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：5
+2021-03-02 21:27:13.076 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = MyBean, value = edu.gdpu.MySSM.test.iocAop.MyBean@5a01ccaa
+2021-03-02 21:27:13.076 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testcontroller, value = edu.gdpu.MySSM.test.ioctest.controller.TestController@71c7db30
+2021-03-02 21:27:13.076 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testconfiguration, value = edu.gdpu.MySSM.test.ioctest.config.TestConfiguration@19bb089b
+2021-03-02 21:27:34.657 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：5
+2021-03-02 21:27:35.683 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = MyBean, value = edu.gdpu.MySSM.test.iocAop.MyBean@5a01ccaa
+2021-03-02 21:27:35.683 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testcontroller, value = edu.gdpu.MySSM.test.ioctest.controller.TestController@71c7db30
+2021-03-02 21:27:35.683 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testconfiguration, value = edu.gdpu.MySSM.test.ioctest.config.TestConfiguration@19bb089b
+2021-03-02 21:27:45.717 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：5
+2021-03-02 21:27:46.745 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = MyBean, value = edu.gdpu.MySSM.test.iocAop.MyBean@5a01ccaa
+2021-03-02 21:27:46.746 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testcontroller, value = edu.gdpu.MySSM.test.ioctest.controller.TestController@71c7db30
+2021-03-02 21:27:46.746 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testconfiguration, value = edu.gdpu.MySSM.test.ioctest.config.TestConfiguration@19bb089b
+2021-03-02 21:27:55.107 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：5
+2021-03-02 21:27:56.135 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = MyBean, value = edu.gdpu.MySSM.test.iocAop.MyBean@5a01ccaa
+2021-03-02 21:27:56.135 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testcontroller, value = edu.gdpu.MySSM.test.ioctest.controller.TestController@71c7db30
+2021-03-02 21:27:56.135 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testconfiguration, value = edu.gdpu.MySSM.test.ioctest.config.TestConfiguration@19bb089b
+2021-03-02 21:28:22.607 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：5
+2021-03-02 21:28:23.630 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = MyBean, value = edu.gdpu.MySSM.test.iocAop.MyBean@5a01ccaa
+2021-03-02 21:28:23.630 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testcontroller, value = edu.gdpu.MySSM.test.ioctest.controller.TestController@71c7db30
+2021-03-02 21:28:23.630 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testconfiguration, value = edu.gdpu.MySSM.test.ioctest.config.TestConfiguration@19bb089b
+2021-03-02 21:29:09.403 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：5
+2021-03-02 21:29:10.432 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = MyBean, value = edu.gdpu.MySSM.test.iocAop.MyBean@4563e9ab
+2021-03-02 21:29:10.432 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testcontroller, value = edu.gdpu.MySSM.test.ioctest.controller.TestController@11531931
+2021-03-02 21:29:10.432 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testservice, value = edu.gdpu.MySSM.test.ioctest.service.TestService@5e025e70
+2021-03-02 21:29:10.432 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testconfiguration, value = edu.gdpu.MySSM.test.ioctest.config.TestConfiguration@1fbc7afb
+2021-03-02 21:29:37.358 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：5
+2021-03-02 21:29:38.384 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = MyBean, value = edu.gdpu.MySSM.test.iocAop.MyBean@4563e9ab
+2021-03-02 21:29:38.384 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testcontroller, value = edu.gdpu.MySSM.test.ioctest.controller.TestController@11531931
+2021-03-02 21:29:38.384 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testservice, value = edu.gdpu.MySSM.test.ioctest.service.TestService@5e025e70
+2021-03-02 21:29:38.384 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testconfiguration, value = edu.gdpu.MySSM.test.ioctest.config.TestConfiguration@1fbc7afb
+2021-03-02 21:36:23.009 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：4
+2021-03-02 21:36:24.036 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = MyBean, value = edu.gdpu.MySSM.test.iocAop.MyBean@11531931
+2021-03-02 21:36:24.036 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testcontroller, value = edu.gdpu.MySSM.test.ioctest.controller.TestController@5e025e70
+2021-03-02 21:36:24.036 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testservice, value = edu.gdpu.MySSM.test.ioctest.service.TestService@1fbc7afb
+2021-03-02 21:36:24.036 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testconfiguration, value = edu.gdpu.MySSM.test.ioctest.config.TestConfiguration@45c8e616
+2021-03-02 21:37:11.061 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-02 21:37:29.515 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：5
+2021-03-02 21:37:41.496 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：7

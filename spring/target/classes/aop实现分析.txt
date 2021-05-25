@@ -1,0 +1,23 @@
+献上spring中文文档
+https://www.docs4dev.com/docs/zh/spring-framework/5.1.3.RELEASE/reference/core.html#aop-api
+下面对于源码的解析只是我的一部分个人理解;可能理解有误,仅供参考
+1.joinPoint 的proceed方法(执行此方法)
+spring框架中将这一部分分为MethodInvocation
+  和MethodInvocationProceedingJoinPoint
+  JoinPoint的proceed方法来调用MethodInvocation 的proceed方法,继而调用
+  MethodInterceptor的invoke方法（即AspectAfterAdvice等具体实现类）
+  这个底层似乎没有使用到targetSource
+由此我得出一个假设猜想：
+aop的环绕通知和其他类型通知实现过程区别较大
+2.aspect注解修饰的类应该存放在ioc容器和一个aop容器中
+4.targetSource+Advisor(pointcut+advice)，这种方法 aop开发人员用的较少
+5.通过解析源码发现生成代理对象是通过ProxyCreatorSupport.getAopProxy()方法调用
+AopProxyFactory.createAopProxy()方法调用JdkDynamicAopProxy.getProxy()产生代理对象，
+但是这个过程中追踪发现似乎只是获取到代理对象,却没有存放进ioc容器中,
+通过参考网上对于proxyFactoryBean和proxyFactory的分析,我发现第一个获取代理对象后会将其放入ioc容器中，
+然后通过getObject()方法获取ioc容器中的对象,采取AdvisorAdapter（适配器设计模式）
+
+而后者需要通过后置处理器来将代理对象存进ioc容器中,
+       AbstractAutoProxyCreator.postProcessAfterInitialization()方法
+
+

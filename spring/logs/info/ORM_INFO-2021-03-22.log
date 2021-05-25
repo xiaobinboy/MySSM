@@ -1,0 +1,115 @@
+2021-03-22 14:48:44.667 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：122
+2021-03-22 14:51:46.673 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 14:52:13.114 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 14:53:12.100 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：9
+2021-03-22 14:55:15.095 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 14:55:31.783 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 14:56:00.979 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 14:57:56.055 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 14:58:28.337 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 14:58:49.779 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 14:59:37.897 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：7
+2021-03-22 15:00:03.870 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：10
+2021-03-22 15:00:37.709 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:00:38.740 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = MyBean, value = edu.gdpu.MySSM.test.iocAop.MyBean@1e88b3c
+2021-03-22 15:00:38.740 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testcontroller, value = edu.gdpu.MySSM.test.iocAop.contrller.TestController@42d80b78
+2021-03-22 15:00:38.740 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = myaspect, value = edu.gdpu.MySSM.test.iocAop.aspect.MyAspect@3bfdc050
+2021-03-22 15:00:38.740 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testservice, value = edu.gdpu.MySSM.test.iocAop.service.impl.TestServiceImpl@1bce4f0a
+2021-03-22 15:00:38.740 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testconfiguration, value = edu.gdpu.MySSM.test.iocAop.config.TestConfiguration@5e3a8624
+2021-03-22 15:01:46.730 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：7
+2021-03-22 15:01:47.767 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = MyBean, value = edu.gdpu.MySSM.test.iocAop.MyBean@1e88b3c
+2021-03-22 15:01:47.768 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testcontroller, value = edu.gdpu.MySSM.test.iocAop.contrller.TestController@42d80b78
+2021-03-22 15:01:47.768 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = myaspect, value = edu.gdpu.MySSM.test.iocAop.aspect.MyAspect@3bfdc050
+2021-03-22 15:01:47.768 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testservice, value = edu.gdpu.MySSM.test.iocAop.service.impl.TestServiceImpl@1bce4f0a
+2021-03-22 15:01:47.768 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testconfiguration, value = edu.gdpu.MySSM.test.iocAop.config.TestConfiguration@5e3a8624
+2021-03-22 15:02:33.462 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:03:53.051 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：7
+2021-03-22 15:05:42.787 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:06:44.405 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：7
+2021-03-22 15:07:48.561 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：7
+2021-03-22 15:09:12.972 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:09:59.297 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:11:41.066 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：5
+2021-03-22 15:12:51.799 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:13:15.592 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:13:36.531 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：7
+2021-03-22 15:13:53.510 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：7
+2021-03-22 15:14:18.623 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:15:21.409 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:15:41.147 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:15:58.295 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:16:31.735 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:17:25.883 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：7
+2021-03-22 15:17:57.405 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:19:09.403 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:19:39.340 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：7
+2021-03-22 15:19:59.198 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：9
+2021-03-22 15:20:25.073 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:20:26.153 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = MyBean, value = edu.gdpu.MySSM.test.iocAop.MyBean@dc24521
+2021-03-22 15:20:26.153 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testcontroller, value = edu.gdpu.MySSM.test.iocAop.contrller.TestController@10bdf5e5
+2021-03-22 15:20:26.153 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = myaspect, value = edu.gdpu.MySSM.test.iocAop.aspect.MyAspect@6e1ec318
+2021-03-22 15:20:26.153 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testservice, value = edu.gdpu.MySSM.test.iocAop.service.impl.TestServiceImpl@7e0b0338
+2021-03-22 15:20:26.154 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testconfiguration, value = edu.gdpu.MySSM.test.iocAop.config.TestConfiguration@617faa95
+2021-03-22 15:20:39.559 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:20:40.638 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = MyBean, value = edu.gdpu.MySSM.test.iocAop.MyBean@dc24521
+2021-03-22 15:20:40.639 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testcontroller, value = edu.gdpu.MySSM.test.iocAop.contrller.TestController@10bdf5e5
+2021-03-22 15:20:40.639 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = myaspect, value = edu.gdpu.MySSM.test.iocAop.aspect.MyAspect@6e1ec318
+2021-03-22 15:20:40.639 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testservice, value = edu.gdpu.MySSM.test.iocAop.service.impl.TestServiceImpl@7e0b0338
+2021-03-22 15:20:40.639 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testconfiguration, value = edu.gdpu.MySSM.test.iocAop.config.TestConfiguration@617faa95
+2021-03-22 15:22:21.317 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:22:50.239 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：9
+2021-03-22 15:23:18.213 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：8
+2021-03-22 15:24:05.348 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:24:22.505 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：7
+2021-03-22 15:25:12.036 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:25:33.702 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:27:23.093 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:27:52.506 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:28:42.970 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：9
+2021-03-22 15:43:41.654 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：9
+2021-03-22 15:43:55.307 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：8
+2021-03-22 15:44:13.819 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：11
+2021-03-22 15:44:36.442 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:45:48.190 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:46:16.118 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:47:50.164 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：7
+2021-03-22 15:48:05.832 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:52:52.549 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：16
+2021-03-22 15:52:54.000 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-03-22 15:54:12.511 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：5
+2021-03-22 15:54:13.734 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-03-22 15:55:10.129 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:55:11.363 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-03-22 15:55:58.736 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:55:59.956 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-03-22 15:56:30.036 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：7
+2021-03-22 15:56:31.259 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-03-22 15:57:05.996 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：7
+2021-03-22 15:57:07.227 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-03-22 15:57:57.948 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:57:59.156 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-03-22 15:58:22.239 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：7
+2021-03-22 15:58:42.158 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:58:43.367 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-03-22 15:59:50.334 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-03-22 15:59:51.577 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited

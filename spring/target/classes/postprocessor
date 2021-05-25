@@ -1,0 +1,15 @@
+edu.gdpu.spring.postProcessor.AutoWritedPostProcessor
+edu.gdpu.spring.postProcessor.BeanPostProcessor
+edu.gdpu.spring.postProcessor.ValuePostProcessor
+edu.gdpu.spring.postProcessor.ServicePostProcessor
+edu.gdpu.spring.postProcessor.RepositoryPostProcessor
+edu.gdpu.spring.postProcessor.ControllerPostProcessor
+edu.gdpu.spring.postProcessor.ComponentPostProcessor
+edu.gdpu.spring.postProcessor.PropertiesSourcePostProcessor
+edu.gdpu.spring.postProcessor.ConfigurationPostProcessor
+edu.gdpu.spring.postProcessor.ComponentScanPostProcessor
+edu.gdpu.spring.postProcessor.EnableAopProxyPostProcessor
+edu.gdpu.spring.postProcessor.AspectPostProcessor
+edu.gdpu.spring.postProcessor.EnableTransactionPostProcessor
+edu.gdpu.spring.postProcessor.TransactionalPostProcessor
+edu.gdpu.springmvc.servlet.config.annotation.EnableWebMvcPostProcessor

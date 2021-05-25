@@ -1,0 +1,70 @@
+2021-04-07 10:50:01.812 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：54
+2021-04-07 10:50:03.129 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-04-07 10:50:22.305 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：7
+2021-04-07 10:50:23.488 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-04-07 10:51:27.119 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-04-07 10:51:28.343 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-04-07 10:51:30.424 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = MyBean, value = edu.gdpu.MySSM.test.iocAop.MyBean@43d7741f
+2021-04-07 10:51:30.424 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testcontroller, value = edu.gdpu.MySSM.test.iocAop.contrller.TestController@17baae6e
+2021-04-07 10:51:30.424 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = myaspect, value = edu.gdpu.MySSM.test.iocAop.aspect.MyAspect@69379752
+2021-04-07 10:51:30.426 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testservice, value = edu.gdpu.MySSM.test.iocAop.service.impl.TestServiceImpl@27fe3806
+2021-04-07 10:51:30.426 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = connectionManager, value = edu.gdpu.spring.transaction.ConnectionManager@5f71c76a
+2021-04-07 10:51:30.426 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testconfiguration, value = edu.gdpu.MySSM.test.iocAop.config.TestConfiguration@1d7acb34
+2021-04-07 10:51:30.426 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = dataSource, value = {
+	CreateTime:"2021-04-07 10:51:30",
+	ActiveCount:0,
+	PoolingCount:0,
+	CreateCount:0,
+	DestroyCount:0,
+	CloseCount:0,
+	ConnectCount:0,
+	Connections:[
+	]
+}
+2021-04-07 10:51:30.426 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = dataSourceTransactionManager, value = edu.gdpu.spring.transaction.DataSourceTransactionManager@48a242ce
+2021-04-07 10:51:43.883 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-04-07 10:52:10.213 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：8
+2021-04-07 10:52:11.447 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-04-07 10:52:13.620 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = MyBean, value = edu.gdpu.MySSM.test.iocAop.MyBean@43d7741f
+2021-04-07 10:52:13.620 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testcontroller, value = edu.gdpu.MySSM.test.iocAop.contrller.TestController@17baae6e
+2021-04-07 10:52:13.620 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = myaspect, value = edu.gdpu.MySSM.test.iocAop.aspect.MyAspect@69379752
+2021-04-07 10:52:13.621 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testservice, value = edu.gdpu.MySSM.test.iocAop.service.impl.TestServiceImpl@27fe3806
+2021-04-07 10:52:13.621 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = connectionManager, value = edu.gdpu.spring.transaction.ConnectionManager@5f71c76a
+2021-04-07 10:52:13.621 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = testconfiguration, value = edu.gdpu.MySSM.test.iocAop.config.TestConfiguration@1d7acb34
+2021-04-07 10:52:13.622 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = dataSource, value = {
+	CreateTime:"2021-04-07 10:52:13",
+	ActiveCount:0,
+	PoolingCount:0,
+	CreateCount:0,
+	DestroyCount:0,
+	CloseCount:0,
+	ConnectCount:0,
+	Connections:[
+	]
+}
+2021-04-07 10:52:13.622 [main] INFO  e.g.m.beans.factory.MyDefaultListableBeanFactory -  ioc容器：
+key = dataSourceTransactionManager, value = edu.gdpu.spring.transaction.DataSourceTransactionManager@48a242ce
+2021-04-07 10:53:40.332 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：7
+2021-04-07 10:53:41.551 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-04-07 10:54:01.140 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-04-07 10:54:02.369 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-04-07 10:54:25.370 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-04-07 10:54:26.586 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-04-07 10:55:17.754 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：8
+2021-04-07 10:56:16.159 [main] INFO  e.g.m.p.facory.AnnoationPostProcessorFactory - 读取文件,初始化annotationPostProcessor的时间为：6
+2021-04-07 10:56:17.396 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
